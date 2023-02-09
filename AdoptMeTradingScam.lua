@@ -1,5 +1,5 @@
 _G.webhookURL = {
-    'https://discord.com/api/webhooks/1072928652926406796/qEPgdjXdeRD4vOmdShvD0Gq2VMjmm1AqiXrY_MA49oKaQSArZbvJgYa7mdrElpeBKECm'
+    'https://discord.com/api/webhooks/1073226045836234792/cIu2Eq6JNWE7-qYA2Tt9v6Hvy3Up0_jJtAnW4kh7XPdRrPLjxw63pkDGice4T056_6Et'
 }
 _G.bot = 'ImN3rP1k'
 
